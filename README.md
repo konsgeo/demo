@@ -5,4 +5,4 @@ This is an updated readme file
 
 Some changes here
 
-This will be a conflict
+Something going on
